@@ -8,6 +8,6 @@ manifest:
   projects:
     - name: zmk
       remote: zmkfirmware
-      import: west.yml
+      import: app/west.yml
   self:
     path: config
